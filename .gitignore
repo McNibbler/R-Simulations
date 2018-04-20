@@ -1,0 +1,10 @@
+# R Cache
+.Rprofile
+.Rhistory
+.RData
+
+# Proprietary data that I shouldn't share publically
+*.txt
+
+# Temp Files
+*~
